@@ -55,4 +55,6 @@ sh register_provisioning_service.ch provisioning_service_id
 
 ## Initial benchmarks
 
-Currently the Standardized Localization Service uses a set of 8 provisioning services based on WiFi fingerprinting. The Standardized Localization Service is operating on the 2nd floor of the TKN building in Berlin. The benchmarks are coming. 
+Currently the Standardized Localization Service uses a set of 8 provisioning services based on WiFi fingerprinting. The Standardized Localization Service is operating on the 2nd floor of the TKN building in Berlin. The benchmarks are available here:
+
+http://www.tkn.tu-berlin.de/fileadmin/fg112/Papers/2017/Lemic17slsr_a_flexible.pdf
